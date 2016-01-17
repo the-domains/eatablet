@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7849463
+  brandStrength: 0.7616488
+  lightness: 0.6989247
+  brandColors:
+    - '#FFFFFF'
+    - '#20BDBD'
+    - '#6D6D6F'
+    - '#F9921F'
+    - '#C5C5C7'
+  rhythmicContrast: 0.5842294
+typography_spectrum: 0.6559139
+name: Eatablet
