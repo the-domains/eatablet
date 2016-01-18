@@ -1,26 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6559139
 color:
   saturation: 0.7849463
+  lightness: 0.6989247
   brandStrength: 0.7616488
-  rhythmicContrast: 0.5842294
   brandColors:
     - '#FFFFFF'
     - '#20BDBD'
     - '#6D6D6F'
     - '#F9921F'
     - '#C5C5C7'
-  lightness: 0.6989247
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-layout_spectrum: 1
-typography_spectrum: 0.6559139
+  rhythmicContrast: 0.5842294
 name: Eatablet
